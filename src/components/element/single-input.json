@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_element_single_inputs",
+  "info": {
+    "displayName": "SingleInput",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "inputText": {
+      "type": "string"
+    }
+  }
+}

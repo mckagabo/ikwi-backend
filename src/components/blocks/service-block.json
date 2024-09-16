@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_blocks_service_blocks",
+  "info": {
+    "displayName": "ServiceBlock",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "serviceElement": {
+      "type": "component",
+      "repeatable": true,
+      "component": "element.single-input"
+    },
+    "heading": {
+      "type": "string"
+    },
+    "serviceImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

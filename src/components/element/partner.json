@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_element_partners",
+  "info": {
+    "displayName": "Partner"
+  },
+  "options": {},
+  "attributes": {
+    "companyName": {
+      "type": "string"
+    },
+    "companyLogo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blocks_foter_notes",
+  "info": {
+    "displayName": "FoterNote"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "footerbutton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "element.button-link"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_element_price_cards",
+  "info": {
+    "displayName": "PriceCard"
+  },
+  "options": {},
+  "attributes": {
+    "planType": {
+      "type": "string"
+    },
+    "planPrice": {
+      "type": "string"
+    },
+    "isFeatured": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

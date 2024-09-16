@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_element_adresses",
+  "info": {
+    "displayName": "Adress"
+  },
+  "options": {},
+  "attributes": {
+    "Location": {
+      "type": "string"
+    },
+    "phisicalAddress": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    }
+  }
+}
